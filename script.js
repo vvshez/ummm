@@ -54,16 +54,16 @@
 })();
 */
 const messages = [
-    "Are you sure?",
+    "nigga ?",
     "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "dont pmo?",
+    "aleena please...",
+    "doing tm now",
+    "u stink ",
+    "stinker",
+    "alr bro block me then.",
+    "u locked here boi",
+    "u officaly wifey now whether u clicked no or yes❤️"
 ];
 
 let messageIndex = 0;
